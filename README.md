@@ -11,7 +11,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Para entrar em contato comigo acesse uma das redes abaixo!
  
 <div> 
   <a href="https://instagram.com/leozizz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
