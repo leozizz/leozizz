@@ -27,6 +27,37 @@
 
 ##
 
+#### Experiência Profissional:
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Agibank" src="https://i.postimg.cc/K8ZJ7bdK/agibank-logo.jpg"/>](https://www.agibank.com.br/)
+**Frontend Development Intern** \
+[**AgiBank**](https://www.agibank.com.br/) • Half-time \
+Competências: `Desenvolvimento Frontend`, `Resolução de Problemas`, `Eficiência operacional`, 
+<br/> `Sustentação e Desenvolvimento de Sistemas Internos (CRM, SPA, PWA)`
+
+##
+
+#### Formação Acadêmica:
+Na visão geral abaixo você encontrará minha formação acadêmica:
+
+[<img align="left" height="94px" width="94px" alt="Origamid Cursos" src="https://i.postimg.cc/nLYXZ8dJ/origamid-logo.jpg"/>](https://www.origamid.com/)
+**Desenvolvimento Front-End** \
+[**Origamid**](https://www.origamid.com/) \
+Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React`, `TypeScript`, `TailwindCSS`, `ViteJS`, `NextJS`
+
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Universidade Anhembi Morumbi" src="https://i.postimg.cc/T3HK3qxk/1630477125887.jpg"/>](https://portal.anhembi.br/)
+**Análise e Desenvolvimento de Sistemas** \
+[**Universidade Anhembi Morumbi**](https://portal.anhembi.br/)
+
+<br/><br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/leozizz/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+##
+
 #### Estatísticas:
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozizz&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=leozizz&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
