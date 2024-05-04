@@ -5,7 +5,7 @@
 - 🗺️ Sou de Campinas/SP, Brasil
 - ❤️ Apaixonado por Música, Games e Tecnologia
 - 🧠 Estudante de Análise e Desenvolvimento de Sistemas
-- 💼 Atualmente estou estagiando como Dev Front-End na empresa Agibank, uma Instituição Financeira com Sedes em Campinas/SP e Porto Alegre/RS
+- 💼 Atualmente estou atuando como Dev Frontend Junior na empresa Agibank, uma Instituição Financeira com Sedes em Campinas/SP e Porto Alegre/RS
 
 ##
 
@@ -29,6 +29,14 @@
 
 #### Experiência Profissional:
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Agibank" src="https://i.postimg.cc/K8ZJ7bdK/agibank-logo.jpg"/>](https://www.agibank.com.br/)
+**Frontend Software Engineer I** \
+[**AgiBank**](https://www.agibank.com.br/) • Half-time \
+Competências: `Desenvolvimento Frontend`, `Resolução de Problemas`, `Eficiência operacional`, 
+<br/> `Sustentação e Desenvolvimento de Sistemas Internos (CRM, SPA, PWA)`
+
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Agibank" src="https://i.postimg.cc/K8ZJ7bdK/agibank-logo.jpg"/>](https://www.agibank.com.br/)
 **Frontend Development Intern** \
