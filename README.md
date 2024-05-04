@@ -10,7 +10,7 @@
 ##
 
 #### Estou aprendendo sobre:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,angular,jest,tailwind,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,vite,jest,tailwind,styledcomponents,mongodb)](https://skillicons.dev)
 
 
 ##
