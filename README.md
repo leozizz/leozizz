@@ -32,7 +32,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Agibank" src="https://i.postimg.cc/K8ZJ7bdK/agibank-logo.jpg"/>](https://www.agibank.com.br/)
 **Frontend Software Engineer I** \
-[**AgiBank**](https://www.agibank.com.br/) • Half-time \
+[**AgiBank**](https://www.agibank.com.br/) • Full-time \
 Competências: `Desenvolvimento Frontend`, `Resolução de Problemas`, `Eficiência operacional`, 
 <br/> `Sustentação e Desenvolvimento de Sistemas Internos (CRM, SPA, PWA)`
 
